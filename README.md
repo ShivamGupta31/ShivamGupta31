@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ShivamGupta31](https://github.com/ShivamGupta31)
+- 👨‍💻 All of my projects are available at [https://github.com/ShivamGupta31?tab=repositories)
 
 - 📫 How to reach me **shivwsr@gmail.com**
 
