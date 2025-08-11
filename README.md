@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamgupta21&label=Profile%20views&color=0e75b6&style=flat" alt="shivamgupta21" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamgupta21" alt="shivamgupta21" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/ShivamGupta31](https://github.com/ShivamGupta31)
 
 - 📫 How to reach me **shivwsr@gmail.com**
